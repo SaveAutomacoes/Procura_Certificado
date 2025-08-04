@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Crédito Apurado",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "lnmElEXXh0eRlpANrzIXsw",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/lnmElEXXh0eRlpANrzIXsw",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-03-11T19:06:07.3815072Z",
+  "Updated": "2025-03-11T19:06:07.3815072Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

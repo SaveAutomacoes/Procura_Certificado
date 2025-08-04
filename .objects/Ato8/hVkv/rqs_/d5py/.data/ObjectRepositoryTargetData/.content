@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="clHw8oTTSE6yydzaaERocQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="8d7b19bd-9ca2-47a5-81a7-a078a641beda" CvTextArea="889, 635, 234, 14" CvType="AnyWordGroup" DesignTimeRectangle="891, 634, 232, 17" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl tag='STRONG' type='' class='' /&gt;" Guid="b9f3a2c0-6d3c-40ec-86c1-79a18fb544a1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8d7b19bd-9ca2-47a5-81a7-a078a641beda" CvTextArea="722, 612, 517, 16" CvTextArgument="Pedido de Restituição/Reembolso/Ressarcimento foi enviado com sucesso." CvType="Text" DesignTimeRectangle="723, 612, 517, 16" ElementType="Text" Guid="9753bc75-3f24-4db6-87fd-f1aa3a617a01" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="59df056dcd74ea8ef413d40322053c99.png" xmlns="">0O56O-MRdZUamj6in-omrJQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

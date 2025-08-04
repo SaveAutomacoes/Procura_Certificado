@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="at00UuImOUyS674N7lHERw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac" CVScreenId="eb1e28d3-577f-4274-91f3-8de3a39c6024" CvElementArea="1766, 222, 142, 25" CvTextArea="1774, 226, 124, 16" CvTextArgument="Sair com Segurança" CvType="Button" DesignTimeRectangle="1767, 223, 140, 22" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='sairSeguranca' tag='SPAN' type='' class='botaoAzul' aaname='Sair com Segurança ' check:innerText='Sair com Segurança' /&gt;" Guid="fc6b3cf2-6c36-48c5-971b-5d100ede145c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="eb1e28d3-577f-4274-91f3-8de3a39c6024" CvElementArea="1766, 222, 142, 25" CvTextArea="1774, 226, 124, 16" CvTextArgument="Sair com Segurança" CvType="Button" DesignTimeRectangle="1767, 223, 162, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='sairSeguranca' tag='A' type='' class='' aaname='Sair com Segurança          ' check:innerText='Sair com Segurança' /&gt;" Guid="93f76a83-3fb3-4a01-b9c5-6946411861d2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="70347a05627dfdc9e16b048e62b352c2.png" xmlns="">0zDM0gz0vfkG1aWBmxHDzow</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9IKhw9bdWEWssdF1iQHP9g" Reference="DRaOZbhlWkaD6Iu4Nuk-ug/6pXaeX_qo0Sl9-mpxmfjyg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="d73f0635-1983-4c3c-8a6f-2fe9ebfac27c" CvTextArea="1101, 829, 712, 21" CvTextArgument="Verifique se, de fato, não houve Dedução/Desconto anterior para O Crédito Apurado &quot;201-" CvType="Text" DesignTimeRectangle="1101, 828, 712, 21" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="84ee72ae-b6ab-4088-bfb3-8aca35c40990" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d73f0635-1983-4c3c-8a6f-2fe9ebfac27c" CvTextArea="944, 741, 319, 17" CvTextArgument="O Documento está apto para envio" CvType="Text" DesignTimeRectangle="295, 730, 1575, 44" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl type='' parentid='page-content-wrapper' tag='DIV' class='info ng-star-inserted' aaname='O Documento está apto para envio ' check:innerText='O Documento está apto para envio' /&gt;" Guid="880f4ec9-a98a-4d52-95d3-bfa3876ad365" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b47e1fefbf21109a2f6b21abc526dc0f.png" xmlns="">0tdRicqSjoEuKLmvIqLYDRw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

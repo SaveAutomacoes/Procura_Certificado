@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Rbf5pHRDDkifiXBVhTw-nw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="1785b3d5-af35-4526-b907-aaf60a12a38c" CvElementArea="267, 828, 16, 16" CvType="CheckBox" DesignTimeRectangle="267, 828, 16, 16" DesignTimeScaleFactor="1" ElementType="CheckBox" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl tag='INPUT' type='checkbox' class='ng-untouched ng-pristine ng-valid' aaname='' /&gt;" Guid="77b9b3c4-ce05-4325-94ca-1b9900fbd953" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1785b3d5-af35-4526-b907-aaf60a12a38c" CvElementArea="267, 828, 16, 16" CvTextArea="285, 828, 888, 15" CvTextArgument="O Contribuinte não está litigando em Processo Judicial ou Administrativo sobre matéria que possa alterar o valor a ser Ressarcido/Compensado" CvType="CheckBox" DesignTimeRectangle="267, 827, 906, 17" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname=' O Contribuinte não está litigando em Processo Judicial ou Administrativo sobre matéria que possa alterar o valor a ser Ressarcido/Compensado' tag='LABEL' type='' class='' check:innerText='O Contribuinte não está litigando em Processo Judicial ou Administrativo sobre matéria que possa' /&gt;" Guid="a92d3d53-2ae6-48f4-87c3-3b19471588e5" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9415367b86915b3bd6b509d36b59d63b.png" xmlns="">07HfnC8dqL0SJllCikA9_BQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

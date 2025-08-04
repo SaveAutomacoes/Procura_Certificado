@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Ir para a Caixa Postal",
+  "Type": "Element",
+  "Id": "6o4PbIpIZEmR_q5nGH9oPQ",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/6o4PbIpIZEmR_q5nGH9oPQ",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-04-23T19:32:35.7755683Z",
+  "Updated": "2025-04-23T19:32:35.7755683Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

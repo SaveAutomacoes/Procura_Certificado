@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="38NyYwsHzkuxZaUpwewDdA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="3d50da95-e578-4f1d-970c-e9579770ee45" CvElementArea="1760, 232, 147, 26" CvTextArea="1766, 237, 132, 16" CvTextArgument="Sair com Segurança" CvType="Button" DesignTimeRectangle="1761, 234, 145, 23" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='sairSeguranca' tag='SPAN' /&gt;" Guid="35ef3a28-9e25-4821-8f49-9ca7ac376558" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="31b5d8a910413f1b6df66a4ae39441df.png" xmlns="">06Lo2EZ17vkyGH3Noj2kq5Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

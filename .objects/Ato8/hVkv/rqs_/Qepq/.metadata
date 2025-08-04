@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Detalhamento do Crédito(1)",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "QepqJKQ9_UaVetj3k1JqGA",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/QepqJKQ9_UaVetj3k1JqGA",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-03-11T19:02:38.5524019Z",
+  "Updated": "2025-03-11T19:02:38.5524019Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="c1GbG7ybXUug0cqG7sNsNQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac" DesignTimeRectangle="720, 365, 498, 55" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='perfilAcesso' tag='P' type='' class='mensagemErro' /&gt;" Guid="1bab0c23-aa7f-408a-95ac-e73f9cd72dbe" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="72e360b6-1349-41a2-a0d1-3e0d1cf58fff" CvTextArea="761, 375, 73, 18" CvTextArgument="ATENÇÃO:" CvType="Text" DesignTimeRectangle="764, 377, 84, 15" FuzzySelectorArgument="&lt;webctrl tag='B' type='' class='' aaname='ATENÇÃO: ' check:innerText='ATENÇÃO:' /&gt;" Guid="239e5991-58ab-4fbc-93dc-305e28e93d29" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c9fde4618b9748630e064477cfbf113e.png" xmlns="">0jF9tBvb9JEyWc3PVSvaF1A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

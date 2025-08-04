@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="CWVRCZ6SQ02H-JL28mOU_g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Default.aspx" CVScreenId="d001ad6d-5076-468a-ac42-d3e0405e68d9" CvElementArea="1250, 454, 212, 35" CvTextArea="1286, 464, 141, 16" CvTextArgument="Senhas e Procurações" CvType="Button" DesignTimeRectangle="1255, 455, 206, 32" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='btn302' tag='A' type='' class='' aaname='Senhas e Procurações' check:innerText='Senhas e Procurações' /&gt;" Guid="d1ffc7b4-409c-4d74-9431-19e8623fff3b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d001ad6d-5076-468a-ac42-d3e0405e68d9" CvElementArea="1250, 454, 212, 35" CvTextArea="1286, 464, 141, 16" CvTextArgument="Senhas e Procurações" CvType="Button" DesignTimeRectangle="1251, 455, 210, 32" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl id='btn302' tag='LI' type='' class='botaoAzulServicos' aaname='' check:innerText='Senhas e Procurações' /&gt;" Guid="339ecc76-6962-4b7d-a982-9537a5f586f3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b2867e3b1338f078957bc18aadcda4c0.png" xmlns="">0f3EmZeItkE-jmrqzPZcA8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

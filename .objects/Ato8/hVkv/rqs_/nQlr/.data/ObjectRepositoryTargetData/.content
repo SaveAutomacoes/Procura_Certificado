@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="ukgkB7_uu0WX7l7PjPjOHw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="1369f9b4-69a5-4a19-ba02-1e1fed19d7e1" CvTextArea="310, 653, 35, 13" CvTextArgument="Abril*" CvType="Text" DesignTimeRectangle="311, 651, 362, 20" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Abril' class='required' tag='LABEL' type='' check:innerText='Janeiro' /&gt;" Guid="9938ecbe-cdad-4be9-95ee-54201ffa98d6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1369f9b4-69a5-4a19-ba02-1e1fed19d7e1" CvTextArea="328, 632, 289, 14" CvTextArgument="Valores Apurados para O Detalhamento" CvType="Text" DesignTimeRectangle="322, 629, 303, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='ng-star-inserted' tag='LABEL' type='' aaname='Valores Apurados para o Detalhamento' check:innerText='Valores Apurados para o Detalhamento' /&gt;" Guid="c57693d4-2414-4497-b357-8bcfb99c4dce" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1916aed9b6ba39e1473acf2454416672.png" xmlns="">0Tz01JYSP3kuYFZP3C2YhrA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

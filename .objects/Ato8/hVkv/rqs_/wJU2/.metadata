@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Detalhar",
+  "Type": "Element",
+  "Id": "wJU2k-EIbkOAQsSaJ9-wbQ",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/wJU2k-EIbkOAQsSaJ9-wbQ",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-06-03T17:50:36.1233966Z",
+  "Updated": "2025-06-03T17:50:36.1233966Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jBEfKhFjD0Gvoa16luYyWA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="2b385d3a-6d38-4d99-ad02-8c4aa82c22b2" CvElementArea="1799, 985, 83, 31" CvTextArea="1806, 993, 68, 16" CvTextArgument="Prosseguir" CvType="Button" DesignTimeRectangle="1801, 987, 79, 28" DesignTimeScaleFactor="1.100000023841858" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl name='btnProsseguir' tag='BUTTON' type='button' class='' aaname='Prosseguir' check:innerText='Prosseguir' /&gt;" Guid="95035387-08df-4401-bb22-2784f01022b4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2b385d3a-6d38-4d99-ad02-8c4aa82c22b2" CvElementArea="1719, 985, 74, 31" CvTextArea="1735, 993, 42, 13" CvTextArgument="Salvar" CvType="Button" DesignTimeRectangle="1721, 979, 80, 44" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='ng-star-inserted' type='' aaname='' parentid='page-content-wrapper' tag='DIV' check:innerText='Salvar' /&gt;" Guid="d2ec214e-aa84-4e69-93ec-cc806149756b" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d0879cee603f7110b2ff4afe79f9fc0a.png" xmlns="">0tMRC3f5hOUGhodFWJgEayg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

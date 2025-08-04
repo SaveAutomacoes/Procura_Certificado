@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="yUF9lt1tzkG7LQiMoX7Ysg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="586991d8-fca4-416d-ba51-57244868610e" CvElementArea="24, 385, 30, 34" CvTextArea="42, 407, 11, 11" CvType="Icon" DesignTimeRectangle="19, 384, 39, 38" DesignTimeScaleFactor="1.100000023841858" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl type='' tag='I' class='icon-NovoDocumento ng-tns-c2954561804-0' aaname='' /&gt;" Guid="608f1dcb-1d15-4bef-8834-5a946a379d06" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACsAAAAqCAYAAAAqAaJlAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAG0SURBVFhH7dexSsNAHAbwvko3n6Cjm5ubm0/QLcUliAhSiiAUXNyC4CCCiIuU0kW6uDh0F8SluJgOxfbaXi+Er9SmSXvNxVy8NAnmg/9y18v9SK6XSwEZSoFvSHNybFzJsXHlf2PtrzbGd2WQ010Mg+pCw+STHy1IR8OwUlSJpZg2Dn4uGrqMNn8R/6jFUkyf9tch52WMbnTfImcRsDVNBdYHWimCNLr8D91QIwrW+CuWgx5rGF2mFMsa69DJwIOkCstDKVm0pw7Lmiv/+hPdhc6TKix7KQuh86QGa3/UPWhlB+RKvC0ljnUnCVHk2eSHu5HGOpHAdjGuOZPopc3X57Kqhxg9tsBsfryXrWKDHnGY5Nj15Fi+KzDJYK8zhIX1DatvwqJ8R3CSwUZMMtjlnSVytzYRLGs6J7aaAcZ3+kX+s0Yhdnm8lMHKnQ0yig1d9x13tLtdiepIh3AFy2MBelvanCSoVvbR309smlrs/AORvbcxeW2FKtrzRtrU2QH6JujD3gJYrYM6bdaAQnhQi4ZVky2sWXXJFNbudRZL5c0UP/rVJImVjvxLIfnk2LiSY+PKDHcgva5U5upUAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="58, 385, 148, 39" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname=' NovoDocumento ' parentid='sidebar-wrapper' tag='DIV' type='' class='col-xs-9 side-bar-button-text ng-tns-c2954561804-0' check:innerText='Novo&amp;#xA;Documento' /&gt;" Guid="d1b8ad51-0cb2-4527-9a3a-8d946057bbab" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f5d906297172baef4351a0aa1befff1e.png" xmlns="">0piEELRH5yUK5LpJ3HneqSA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

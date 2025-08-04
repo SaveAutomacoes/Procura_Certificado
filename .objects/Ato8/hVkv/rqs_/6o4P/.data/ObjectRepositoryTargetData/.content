@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EH_Vey_7uE-G2rbo8O5p5Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac" CVScreenId="83188fd2-e4d1-4a24-8ec9-7c1fd0060188" CvElementArea="1035, 646, 154, 28" CvTextArea="1045, 652, 134, 12" CvTextArgument="Ir para a Caixa Postal" CvType="Button" DesignTimeRectangle="1037, 640, 156, 39" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl class='ui-dialog-buttonset' tag='DIV' type='' aaname='' check:innerText='Ir para a Caixa Postal' /&gt;" Guid="fcf026f6-18c1-4089-b5a5-4e6eba6eed04" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="83188fd2-e4d1-4a24-8ec9-7c1fd0060188" CvElementArea="1035, 646, 154, 28" CvTextArea="1045, 652, 134, 12" CvTextArgument="Ir para a Caixa Postal" CvType="Button" DesignTimeRectangle="1037, 647, 150, 25" ElementType="Button" FuzzySelectorArgument="&lt;webctrl tag='BUTTON' type='button' class='' aaname='Ir para a Caixa Postal' check:innerText='Ir para a Caixa Postal' /&gt;" Guid="b731d5c8-612b-4915-b343-57cb670e4cc1" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c9423d413262dc1eb1de1b62ecc374ab.png" xmlns="">0t_HXo_QR5kSvRFq-tOpLQw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UuPoELZyoU2qH2rDBtnL-w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="5a4e428a-0213-4f10-8664-bdcc8256fe85" CvElementArea="671, 932, 238, 32" CvType="InputBox" DesignTimeRectangle="673, 934, 236, 30" DesignTimeScaleFactor="1.100000023841858" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='numeroConta' tag='INPUT' type='text' class='form-control ng-pristine ng-valid ng-touched' aaname='Nº da Conta' /&gt;" Guid="3f23d7e2-7002-422b-8999-ad4d5c0ad69b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5a4e428a-0213-4f10-8664-bdcc8256fe85" CvTextArea="672, 911, 81, 13" CvTextArgument="N° da Conta*" CvType="Text" DesignTimeRectangle="673, 909, 236, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Nº da Conta' class='required' tag='LABEL' type='' check:innerText='Nº da Conta' /&gt;" Guid="e854f3b8-566b-4013-99cf-a193e9b5c93e" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="48f6cf7440958978220a959483ff26a1.png" xmlns="">0l41JcH2AZ0Cl8maDAcUrwA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

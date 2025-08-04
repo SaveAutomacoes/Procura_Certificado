@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="VyxA4pjePkGY16VoemGPxA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="18e3773d-0e68-4695-bb34-db73d93efed0" CvElementArea="1814, 985, 83, 31" CvTextArea="1821, 993, 68, 16" CvTextArgument="Prosseguir" CvType="Button" DesignTimeRectangle="1816, 987, 79, 28" DesignTimeScaleFactor="1.100000023841858" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl name='btnProsseguir' tag='BUTTON' type='button' class='' aaname='Prosseguir' check:innerText='Prosseguir' /&gt;" Guid="d7c32d3c-3a97-4408-8d7c-c8c5e42e9c0e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="18e3773d-0e68-4695-bb34-db73d93efed0" CvElementArea="1814, 985, 83, 31" CvTextArea="1821, 993, 68, 16" CvTextArgument="Prosseguir" CvType="Button" DesignTimeRectangle="1816, 979, 88, 44" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='ng-star-inserted' parentid='page-content-wrapper' tag='DIV' type='' aaname='' check:innerText='Prosseguir' /&gt;" Guid="7c24057d-0a77-43e2-8386-1502b2250a45" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f9fa933578c9642e921d1c14daf18f18.png" xmlns="">0HCSIUzHE0UKaH54uKx3VaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

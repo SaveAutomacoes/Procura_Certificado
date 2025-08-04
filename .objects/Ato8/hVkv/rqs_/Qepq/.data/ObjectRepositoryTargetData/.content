@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6AeXw4wvgk-lFeGa51YY-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="dd1f8928-c75c-4db4-ad86-3813bb0bee00" CvElementArea="1082, 714, 781, 32" CvType="InputBox" DesignTimeRectangle="1083, 715, 781, 30" DesignTimeScaleFactor="1.100000023841858" ElementType="DropDown" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='tipoIdentificacaoCredito' tag='SELECT' type='' class='form-control ng-touched ng-dirty ng-valid' aaname='Detalhamento do Crédito' /&gt;" Guid="7391511e-9231-4a54-b9bb-d558ad92442a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dd1f8928-c75c-4db4-ad86-3813bb0bee00" CvTextArea="1082, 691, 160, 14" CvTextArgument="Detalhamento do Crédito*" CvType="Text" DesignTimeRectangle="1083, 690, 781, 19" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Detalhamento do Crédito' class='required' tag='LABEL' type='' check:innerText='Detalhamento do Crédito' /&gt;" Guid="9e0d6375-a65e-48ad-b904-c559fb3f900a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8c433998773da5378e3af405075820fc.png" xmlns="">0Zqju2oSMoEmTK0qDDf8BhQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">SelectItem</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

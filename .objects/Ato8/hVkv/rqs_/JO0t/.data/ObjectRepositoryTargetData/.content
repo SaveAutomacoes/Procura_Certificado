@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="o4Cwws8WTEixXpFof_Ru3A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="b47eb3aa-f129-4ba6-9946-cdf8d7a0b1b1" CvElementArea="765, 683, 70, 32" CvTextArea="787, 692, 26, 13" CvTextArgument="Sim" CvType="Button" DesignTimeRectangle="767, 686, 66, 28" DesignTimeScaleFactor="1.100000023841858" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='botaoSimVerificarPendenciasNaoImpeditivas' tag='BUTTON' type='button' class='botaoModal' aaname='Sim' check:innerText='Sim' /&gt;" Guid="74021090-5edc-4aec-9411-b6e706fb7ce9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b47eb3aa-f129-4ba6-9946-cdf8d7a0b1b1" CvElementArea="1085, 683, 70, 32" CvTextArea="1107, 691, 28, 14" CvTextArgument="Não" CvType="Button" DesignTimeRectangle="1088, 686, 66, 28" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='botaoNaoVerificarPendenciasNaoInmpeditivas' tag='BUTTON' type='button' class='botaoModal' aaname='Não' check:innerText='Não' /&gt;" Guid="7a7628f5-bef8-470f-85cd-4181dd56c1cb" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d1a3952968efe472356ab5380cbe0a4a.png" xmlns="">06hPvnjRPFEaqQIjqYx-OWw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

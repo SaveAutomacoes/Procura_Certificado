@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9pzY10-Y90i93486Q8E37g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="b6db303f-da09-4bed-998e-2572a02569ef" CvElementArea="267, 776, 16, 16" CvTextArea="285, 776, 888, 16" CvTextArgument="O Contribuinte não está litigando em Processo Judicial ou Administrativo sobre matéria que possa alterar O valor a ser Ressarcido/Compensado" CvType="CheckBox" DesignTimeRectangle="267, 775, 906, 17" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname=' O Contribuinte não está litigando em Processo Judicial ou Administrativo sobre matéria que possa alterar o valor a ser Ressarcido/Compensado' tag='LABEL' type='' class='' check:innerText='O Contribuinte não está litigando em Processo Judicial ou Administrativo sobre matéria que possa' /&gt;" Guid="b4e03b5b-e9f4-4567-b016-2aba3d1bb683" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b6db303f-da09-4bed-998e-2572a02569ef" CvTextArea="308, 660, 140, 14" CvTextArgument="Período do Crédito" CvType="Text" DesignTimeRectangle="302, 657, 154, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='ng-star-inserted' tag='LABEL' type='' aaname='Período do Crédito' check:innerText='Período do Crédito' /&gt;" Guid="72568b69-e328-44a1-bb2c-e0c6352df965" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b36d3bc98c64222a9e316761092f2605.png" xmlns="">0gIMn9_-KqU-nisu1sy7bTA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

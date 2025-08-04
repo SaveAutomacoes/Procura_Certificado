@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hId7G5Iln0Otg6BTe6Y3vw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="a1e77330-1976-4ae5-aad2-087e10abce21" CvElementArea="1081, 634, 783, 33" CvType="InputBox" DesignTimeRectangle="1083, 636, 781, 29" DesignTimeScaleFactor="1.100000023841858" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='apelidoDocumento' tag='INPUT' type='text' class='form-control ng-pristine ng-invalid ng-touched' aaname='Apelido para Identificação do Documento' /&gt;" Guid="dfd264a2-c79d-4d4c-a555-cd6bf3e29a65" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a1e77330-1976-4ae5-aad2-087e10abce21" CvTextArea="1081, 613, 261, 15" CvTextArgument="Apelido para Identificação do Documento*" CvType="Text" DesignTimeRectangle="1083, 610, 781, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Apelido para Identificação do Documento' class='required' tag='LABEL' type='' check:innerText='Apelido para Identificação do Documento' /&gt;" Guid="db8df09f-f55b-45eb-88c7-0f4bec30c256" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7b4794c15f0c847419b66f42e508415b.png" xmlns="">0ei8rH6T7qEa0NpSWel69Ew</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

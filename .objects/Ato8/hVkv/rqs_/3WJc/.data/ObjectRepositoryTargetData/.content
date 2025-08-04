@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-PgoYZqXnEeRiw243BIeKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="c70e9c84-3cd1-417b-92b9-57039313187f" CvTextArea="17, 331, 279, 22" CvTextArgument="The requested URL was rejected." CvType="Text" DesignTimeRectangle="18, 332, 279, 22" ElementType="Text" Guid="9a1816c2-deff-466f-b26c-ddce95574712" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0747e736034bc7565ff53d3b61f54cbd.png" xmlns="">0de0NYw7sT0yKspnUCnYUYw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

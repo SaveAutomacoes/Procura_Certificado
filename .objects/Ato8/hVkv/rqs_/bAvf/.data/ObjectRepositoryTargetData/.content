@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="baq4fTj6pEi-1QKTYt1Idg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="1369f9b4-69a5-4a19-ba02-1e1fed19d7e1" CvElementArea="309, 676, 365, 31" CvType="InputBox" DesignTimeRectangle="311, 676, 362, 30" DesignTimeScaleFactor="1.100000023841858" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='valorMes1' tag='INPUT' type='text' class='form-control ng-untouched ng-pristine ng-invalid' aaname='Abril' /&gt;" Guid="295e62c1-05d9-4a61-99ed-b046068bcebd" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1369f9b4-69a5-4a19-ba02-1e1fed19d7e1" CvTextArea="328, 632, 289, 14" CvTextArgument="Valores Apurados para O Detalhamento" CvType="Text" DesignTimeRectangle="322, 629, 303, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='ng-star-inserted' tag='LABEL' type='' aaname='Valores Apurados para o Detalhamento' check:innerText='Valores Apurados para o Detalhamento' /&gt;" Guid="8635fcc3-4bc0-4bf4-802e-e4937d49a065" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0bb91e07b95c5cb3aa5e863fb1d4ad57.png" xmlns="">0U5rD1uB4OEeAFhHVuf1tUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

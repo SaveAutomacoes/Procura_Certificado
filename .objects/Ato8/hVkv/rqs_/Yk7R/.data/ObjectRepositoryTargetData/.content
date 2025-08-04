@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="wGNeWh_QlEiqDn1YRgITyQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="dc373f14-ed6a-4ad0-ad8f-f31b4dc32d13" CvElementArea="585, 765, 29, 28" CvTextArea="621, 772, 27, 14" CvTextArgument="Não" CvType="RadioButton" DesignTimeRectangle="589, 766, 58, 25" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Não ' type='' tag='LABEL' class='control control--radio' check:innerText='Não' /&gt;" Guid="0a5bbea5-1080-4171-ae94-b7d3d5c6b3b4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dc373f14-ed6a-4ad0-ad8f-f31b4dc32d13" CvElementArea="768, 805, 72, 33" CvTextArea="775, 814, 58, 13" CvTextArgument="Cancelar" CvType="Button" DesignTimeRectangle="770, 807, 68, 29" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='botaoVoltarTermoAceito' tag='BUTTON' type='button' class='botaoModal' aaname='Cancelar' check:innerText='Cancelar' /&gt;" Guid="1f11ed14-d282-471e-9100-a9c45e1f46e7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b518aac7ad9510b0150b3013f00011f5.png" xmlns="">0u2TVoP9Mi0axwDoNJEzqzg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Wu2G1tWHPkGZo2JS7ymh4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac" CVScreenId="2df2aa01-f9e7-4de5-928d-6983613c2c39" CvElementArea="481, 346, 187, 31" CvTextArea="498, 354, 153, 16" CvTextArgument="Restituição e Compensação" CvType="Button" DesignTimeRectangle="484, 347, 182, 29" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='btn263' tag='A' type='' class='' aaname='Restituição e Compensação' check:innerText='Restituição e Compensação' /&gt;" Guid="c3d482cc-ee1c-49a9-b4a0-f6caeef1b1c1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2df2aa01-f9e7-4de5-928d-6983613c2c39" CvElementArea="481, 346, 187, 31" CvTextArea="498, 354, 153, 16" CvTextArgument="Restituição e Compensação" CvType="Button" DesignTimeRectangle="481, 347, 185, 29" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl id='btn263' tag='LI' type='' class='botaoAzulServicos' aaname='' check:innerText='Restituição e Compensação' /&gt;" Guid="715159f7-436a-4f37-8e79-6a81fa079bc2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="866bb206157fb15961693018ad184ab4.png" xmlns="">02O5B_K5U6UWGDt4gqtd4iQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

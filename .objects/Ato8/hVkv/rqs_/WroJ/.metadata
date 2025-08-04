@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Ano",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "WroJCHS8GUaxO1v4gxHI9Q",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/WroJCHS8GUaxO1v4gxHI9Q",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-03-11T19:04:27.7129975Z",
+  "Updated": "2025-03-11T19:04:27.7129975Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="V7gBUGvEDkK6YiBqLycLEg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac" CVScreenId="07e91f99-5baf-4f30-8b42-0613d07d6e0b" CvTextArea="846, 376, 277, 17" CvTextArgument="Não foi possivel alterar o perfil de acesso." CvType="Text" DesignTimeRectangle="846, 377, 277, 16" DesignTimeScaleFactor="1.25" ElementType="Text" Guid="41703400-8014-46c9-9d77-3e7a0c38f87b" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="07e91f99-5baf-4f30-8b42-0613d07d6e0b" CvTextArea="761, 375, 73, 18" CvTextArgument="ATENÇÃO:" CvType="Text" DesignTimeRectangle="764, 377, 78, 15" FuzzySelectorArgument="&lt;webctrl tag='B' type='' class='' aaname='ATENÇÃO: ' check:innerText='ATENÇÃO:' /&gt;" Guid="5e21b9cb-16d1-4c01-91ca-9e54827c93ad" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a2b13d0d574f8398063511430fbcd1d7.png" xmlns="">0CkbwTDDiHEGm7kbSt4_jig</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

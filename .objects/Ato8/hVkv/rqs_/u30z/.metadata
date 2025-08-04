@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Senhas e Procurações",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "u30zfK2ikUyCLntlAa6BWA",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/u30zfK2ikUyCLntlAa6BWA",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-04-28T15:54:13.7261579Z",
+  "Updated": "2025-04-28T15:54:13.7261579Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

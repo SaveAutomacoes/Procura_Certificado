@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4GF4q-uL0kWHPnAt8qPfBg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="77cf0d34-d2c2-4997-aa90-b89a7b2420c3" CvElementArea="950, 628, 16, 25" CvType="Icon" DesignTimeRectangle="949, 630, 13, 22" DesignTimeScaleFactor="1.100000023841858" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl type='' parentid='page-content-wrapper' tag='I' class='icon-exclamation warning' aaname='' /&gt;" Guid="31727d4f-3825-47c4-bc32-94b8d8824583" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAABEAAAAaCAYAAABRqrc5AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAACtSURBVEhLY/hPBcCALkAOGEqGPJjy/0uR4v/PBUi4KPH/9/cIJYQNOZuPagAY+/z/9gyhhLAhz2b//4LNkJcIJWQakv//B5KSoWTI+5VUMOT//v9f0Q2p7fn/E0kFeYa0zP7/C0kFvQy58v9bE5ohM3f8/4OkgghDCAN6GYLFO/0r//9GUkGEIVQJWKoYcvb/13I0Q9pINuT//79fXv3//R4JI6d5Yg0hBIaZIQA8UnML4Yw0GQAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="77cf0d34-d2c2-4997-aa90-b89a7b2420c3" CvTextArea="968, 636, 216, 17" CvTextArgument="O Documento possui alertas (1)" CvType="Text" DesignTimeRectangle="237, 630, 1659, 25" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname=' O Documento possui alertas (1) ' parentid='page-content-wrapper' tag='DIV' type='' class='text-center warning ng-star-inserted' /&gt;" Guid="35a3d111-7fdd-49f7-97ee-c43d77be18c2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0aa7c2f565ff6f61d34173f1ed78d12a.png" xmlns="">0NbDRUAgAYUegwQme2K3Vpw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4Gr7vL5uR0ikpTdZuTnjsg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="04affa66-fd0b-49c8-97a1-20db980ee3fd" CvElementArea="682, 872, 363, 32" CvType="InputBox" DesignTimeRectangle="684, 873, 361, 30" DesignTimeScaleFactor="1.100000023841858" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='valorMes2' tag='INPUT' type='text' class='form-control ng-untouched ng-pristine ng-invalid' aaname='Maio' /&gt;" Guid="0cad7d1b-c0ef-4c5e-97df-57e9121c6f6b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="04affa66-fd0b-49c8-97a1-20db980ee3fd" CvTextArea="683, 850, 37, 13" CvTextArgument="Maio*" CvType="Text" DesignTimeRectangle="684, 848, 361, 20" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='Maio' class='required' tag='LABEL' type='' check:innerText='Maio' /&gt;" Guid="2b08724e-3e98-4933-8081-561433c02d3c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="1eff2221a2b7d44ad7e5fb2466b2acc5.png" xmlns="">01dAkRLlpW0qg7MxMUaoQ2Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

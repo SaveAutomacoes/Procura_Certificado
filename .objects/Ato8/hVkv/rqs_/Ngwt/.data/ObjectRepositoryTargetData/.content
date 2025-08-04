@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Nft5vXkBo0CbcnD51B210w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="8d7b19bd-9ca2-47a5-81a7-a078a641beda" CvElementArea="763, 685, 114, 32" CvTextArea="770, 693, 99, 16" CvTextArgument="Imprimir Recibo" CvType="Button" DesignTimeRectangle="765, 687, 110, 28" DesignTimeScaleFactor="1.100000023841858" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='botaoImprimirRecibo' tag='BUTTON' type='button' class='botaoModal' aaname='Imprimir Recibo' check:innerText='Imprimir Recibo' /&gt;" Guid="9ad5a2b0-8c90-4211-8e0c-fb11ddd5117f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8d7b19bd-9ca2-47a5-81a7-a078a641beda" CvTextArea="722, 612, 517, 16" CvTextArgument="Pedido de Restituição/Reembolso/Ressarcimento foi enviado com sucesso." CvType="Text" DesignTimeRectangle="723, 612, 517, 16" ElementType="Text" Guid="61f00fab-f9b3-4fce-81de-5e57ae721344" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="145abe2bcaa19271118afa4105f16b7f.png" xmlns="">0G1p5eBx_4kuULQo7yJzmGQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

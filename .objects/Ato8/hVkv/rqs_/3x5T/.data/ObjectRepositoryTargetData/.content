@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="qLWOxvhOIEe-0JfUHS5w5Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="1369f9b4-69a5-4a19-ba02-1e1fed19d7e1" CvElementArea="682, 675, 364, 32" CvType="InputBox" DesignTimeRectangle="684, 676, 361, 30" DesignTimeScaleFactor="1.100000023841858" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='valorMes2' tag='INPUT' type='text' class='form-control ng-untouched ng-pristine ng-invalid' aaname='Maio' /&gt;" Guid="c1fa6f99-d030-4209-9849-4f2c2d5717fc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1369f9b4-69a5-4a19-ba02-1e1fed19d7e1" CvTextArea="328, 632, 289, 14" CvTextArgument="Valores Apurados para O Detalhamento" CvType="Text" DesignTimeRectangle="322, 629, 303, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='ng-star-inserted' tag='LABEL' type='' aaname='Valores Apurados para o Detalhamento' check:innerText='Valores Apurados para o Detalhamento' /&gt;" Guid="4ce66fc2-bb1c-4a83-b101-92648dd01323" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fb4adb02ce24a73600e91c038c777ca9.png" xmlns="">0pUh43t3X00WobE3_0kXi7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

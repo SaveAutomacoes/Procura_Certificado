@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="v63TYgJL7kiQedJE17yujg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="77cabd52-5efc-45d8-b599-9e2d7d021c36" CvElementArea="288, 760, 74, 32" CvTextArea="305, 769, 41, 13" CvTextArgument="Inserir" CvType="Button" DesignTimeRectangle="290, 762, 71, 29" DesignTimeScaleFactor="1.100000023841858" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl name='btnSalvar' tag='BUTTON' type='button' class='' aaname='Inserir' check:innerText='Inserir' /&gt;" Guid="d46d38fa-64c8-40ad-8c85-9c429bc129ad" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="77cabd52-5efc-45d8-b599-9e2d7d021c36" CvTextArea="305, 769, 41, 13" CvTextArgument="Inserir" CvType="Text" DesignTimeRectangle="284, 746, 1539, 50" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='gs-col12' parentid='page-content-wrapper' tag='DIV' type='' aaname='' check:innerText='Inserir' /&gt;" Guid="018ca822-b4c6-4fbb-96a4-28b77bd858fd" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fbe0f4c7b00c5f826f3524c7ac5a7fef.png" xmlns="">0PNSchpeNDEWdubgKPbZAwg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

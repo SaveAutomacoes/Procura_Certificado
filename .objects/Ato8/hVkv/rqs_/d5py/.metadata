@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Pedido de RestituiçãoR…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "d5pyfA1GnUSa10Ja_kNVAg",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/d5pyfA1GnUSa10Ja_kNVAg",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-03-12T18:47:29.7784888Z",
+  "Updated": "2025-03-12T18:47:29.7784888Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aUcWMFfNTUGCO0JwzOETqw" Reference="DRaOZbhlWkaD6Iu4Nuk-ug/m9hSORvNRkmyABovOpoZYA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/autenticacao/login" CVScreenId="ad6fbdb0-27a6-4100-baaf-289cd681ef2b" CvElementArea="1150, 685, 207, 53" CvTextArea="1181, 700, 145, 22" CvTextArgument="Entrar com goubr" CvType="Button" DesignTimeRectangle="1151, 687, 203, 49" ElementType="Icon" FullSelectorArgument="&lt;webctrl tag='INPUT' type='image' /&gt;" Guid="eda88970-ecd9-4091-baf4-8f512422dab5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ad6fbdb0-27a6-4100-baaf-289cd681ef2b" CvTextArea="1166, 764, 171, 13" CvTextArgument="Saiba mais sobre GOV.BR" CvType="Text" DesignTimeRectangle="1167, 764, 171, 16" ElementType="Text" FullSelectorArgument="&lt;webctrl parentid='login-dados-certificado' tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='login-dados-certificado' tag='A' type='' class='' aaname='                                 Saiba mais sobre GOV.BR                             ' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Saiba mais sobre GOV.BR' /&gt;" Guid="31584e8d-5d88-4211-a5e2-ce4f465fea2c" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="792ca9f150c9950987cfa2825ac60074.png" xmlns="">0gjoEqLgsbkyT5EVfHxSvGw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

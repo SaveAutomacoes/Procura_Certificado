@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="v_oOhL7zLk2dn7v7Eiu-mA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="0497b1fd-d11f-4414-8331-7d6025df7779" CvElementArea="1814, 971, 83, 31" CvTextArea="1821, 978, 68, 16" CvTextArgument="Prosseguir" CvType="Button" DesignTimeRectangle="1816, 972, 79, 28" DesignTimeScaleFactor="1.100000023841858" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl name='btnProsseguir' tag='BUTTON' type='button' class='' aaname='Prosseguir' check:innerText='Prosseguir' /&gt;" Guid="6b7afaf0-3948-40df-adf0-b10b3422f5b1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="0497b1fd-d11f-4414-8331-7d6025df7779" CvElementArea="1735, 971, 74, 30" CvTextArea="1751, 978, 41, 13" CvTextArgument="Salvar" CvType="Button" DesignTimeRectangle="1736, 972, 71, 28" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl name='btnSalvar' tag='BUTTON' type='button' class='' aaname='Salvar' check:innerText='Salvar' /&gt;" Guid="4c8eeb2c-8f7e-4bd0-a676-0c7f816e25c3" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ea6bd8a53832b4ec1fd7e9d289e4cc15.png" xmlns="">0liRvhVJ7U0KxwzJOI3IVFg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

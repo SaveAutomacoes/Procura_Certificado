@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Tipo do Outorgante Tod…",
+  "Type": "Element",
+  "TaxonomyType": "RadioButton",
+  "Id": "X2l1waOJRUOiVu0lYmI3KQ",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/X2l1waOJRUOiVu0lYmI3KQ",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-04-28T15:56:36.8408144Z",
+  "Updated": "2025-04-28T15:56:36.8408144Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

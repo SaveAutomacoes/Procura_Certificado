@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Consultar por Procurador",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "viITSMMVz0S8MhrnZRqc9w",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/viITSMMVz0S8MhrnZRqc9w",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-04-28T15:55:51.6281352Z",
+  "Updated": "2025-04-28T15:55:51.6281352Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

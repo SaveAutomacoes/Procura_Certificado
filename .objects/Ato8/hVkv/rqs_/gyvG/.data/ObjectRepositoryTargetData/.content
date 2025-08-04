@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="O1vVhjxBmE-b_2ftJ3d0IA" Reference="DRaOZbhlWkaD6Iu4Nuk-ug/gyvGwkY9jUq3QSpI7y2Svg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="b1c09edb-2b82-4422-ab45-324ad5e6cb98" CvElementArea="267, 776, 16, 16" CvTextArea="285, 776, 888, 16" CvTextArgument="O Contribuinte não está litigando em Processo Judicial ou Administrativo sobre matéria que possa alterar O valor a ser Ressarcido/Compensado" CvType="CheckBox" DesignTimeRectangle="267, 775, 906, 17" DesignTimeScaleFactor="1" ElementType="CheckBox" Guid="c1f520a5-0b59-4231-8559-55634ba5d97a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b1c09edb-2b82-4422-ab45-324ad5e6cb98" CvTextArea="308, 660, 140, 14" CvTextArgument="Período do Crédito" CvType="Text" DesignTimeRectangle="308, 660, 140, 14" ElementType="Text" Guid="fd0e7d26-4847-4ee9-919b-b06384811d1c" SearchSteps="CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="edbc7b85a51928cca379b1976b7f5be2.png" xmlns="">07Bfd1WiZRkyp-4J-sl0LEw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

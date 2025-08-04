@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0GKj22I6Z0uzOQaUSSTNLg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Default.aspx" CVScreenId="9007fa3f-640d-4eff-9e0d-dc398efce454" CvTextArea="349, 652, 384, 15" CvTextArgument="Cadastro, Consulta e Cancelamento - Procuração para e-CAC" CvType="Text" DesignTimeRectangle="350, 653, 384, 15" DesignTimeScaleFactor="1.25" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='containerServicos302' tag='A' type='' class='' aaname='Cadastro, Consulta e Cancelamento – Procuração para e-CAC' check:innerText='Cadastro, Consulta e Cancelamento – Procuração para e-CAC' /&gt;" Guid="f1d0e737-fc53-4acf-b0e1-412dccfc9959" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9007fa3f-640d-4eff-9e0d-dc398efce454" CvTextArea="322, 652, 411, 15" CvTextArgument=". Cadastro, Consulta e Cancelamento - Procuração para e-CAC" CvType="Text" DesignTimeRectangle="323, 653, 690, 15" ElementType="ListItem" FuzzySelectorArgument="&lt;webctrl parentid='containerServicos302' tag='LI' type='' class='showTooltip' aaname='' check:innerText='Cadastro, Consulta e Cancelamento – Procuração para e-CAC' /&gt;" Guid="f9b1f7c7-3343-4240-acce-eb6614827f12" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="a95861ab7b556a4dce3f36188c7036dc.png" xmlns="">0Sn-H-mwURkqk2-q9PVtJBg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

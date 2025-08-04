@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="dpZIRQt17EKrQ53d8AZrrg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="1b527119-102a-4355-a8f8-7bd7664e9f9c" CvElementArea="1061, 685, 97, 32" CvTextArea="1098, 693, 23, 13" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="1063, 687, 93, 28" DesignTimeScaleFactor="1.100000023841858" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl id='botaoNavegarTelaInicial' tag='BUTTON' type='button' class='botaoModal' aaname='OK' check:innerText='OK' /&gt;" Guid="0e99babc-e251-4a8f-9ad3-5bc53da48ae3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="669, 681, 583, 50" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl aaname='    ' parentid='page-content-wrapper' tag='DIV' type='' class='gs-col12 areaBotaoModal botoes-maiores' check:innerText='Imprimir Recibo&amp;#xA;  &amp;#xA;OK' /&gt;" Guid="200dbc36-92dd-42be-8f0d-45de6752f2aa" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cb6133653db4eb31c6f17da2930c2fca.png" xmlns="">0CgkoLnqcbUCFpEgiOJVREw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

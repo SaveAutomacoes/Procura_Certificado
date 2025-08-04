@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="98KRdMsu8Uy0ZXNhqLkTFQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" DesignTimeRectangle="991, 429, 151, 76" DesignTimeScaleFactor="1.100000023841858" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl class='radio-inline' type='' tag='LABEL' aaname='' check:innerText='Pedido de Ressarcimento' /&gt;" Guid="3c885750-200e-4997-bc10-764025686fae" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c160d0fb-b84b-47d1-b396-a2725b8326b0" CvTextArea="1066, 454, 11, 19" CvTextArgument="$" CvType="Text" DesignTimeRectangle="991, 429, 151, 57" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl type='' parentid='page-content-wrapper' tag='I' class='icon-radio' aaname='' /&gt;" Guid="19b860b1-a40c-469d-b4f1-ab67addc886f" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e11cd3b090f0e47269d4f780ec275473.png" xmlns="">0gCZYVhjxVE-78Dfs9Z3HfQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
