@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Assunto Emissor Série D…",
+  "Type": "Element",
+  "Id": "8OiEAUakbkSOvvR-AoYBXg",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/8OiEAUakbkSOvvR-AoYBXg",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-08-05T14:52:02.3497997Z",
+  "Updated": "2025-08-05T14:52:02.3497997Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
