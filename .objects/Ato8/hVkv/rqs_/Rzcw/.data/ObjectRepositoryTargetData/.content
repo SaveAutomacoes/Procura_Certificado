@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="yUm43O7MO0WMG7CNOyEFMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="gGUOZblp30GvnMvjxeOWcg" Reference="DRaOZbhlWkaD6Iu4Nuk-ug/Rzcw6bk2C0Co9yf6v3sYjw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="c37b05bb-adc5-4741-b731-d56cc1923b84" CvTextArea="1545, 617, 56, 16" CvType="AnyWordGroup" DesignTimeRectangle="1547, 616, 54, 16" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' parentid='FormConsulta' type='' class='' tag='FONT' /&gt;" Guid="638d7afb-22ca-46a3-b8be-c76700e35541" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="c37b05bb-adc5-4741-b731-d56cc1923b84" CvTextArea="1545, 617, 56, 16" CvType="AnyWordGroup" DesignTimeRectangle="1547, 616, 54, 16" DesignTimeScaleFactor="1.25" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl isleaf='1' parentid='FormConsulta' type='' class='' tag='FONT' /&gt;" Guid="638d7afb-22ca-46a3-b8be-c76700e35541" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive" WaitForReadyArgument="None">
       <TargetAnchorable.Anchors>
-        <scg:List x:TypeArguments="ITarget" Capacity="4">
+        <scg:List x:TypeArguments="ITarget" Capacity="1">
           <Target CVScreenId="c37b05bb-adc5-4741-b731-d56cc1923b84" CvTextArea="1542, 565, 62, 17" CvTextArgument="Situação" CvType="Text" DesignTimeRectangle="1544, 563, 60, 16" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' class='' tag='B' aaname='Situação' check:innerText='Situação' /&gt;" Guid="14ddc581-cdb6-4327-9f30-4189568bbdce" SearchSteps="FuzzySelector, CV" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="ad9c155937bd8f875d0fbed43822216a.png" xmlns="">03ox0lfo6qUyV-nIgTaiE_Q</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="ad9c155937bd8f875d0fbed43822216a.png" xmlns="">0Uw5fgG4wW0e7G5CcZUSSSw</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">GetText</x:String>
   </ObjectRepositoryTargetData.Data>

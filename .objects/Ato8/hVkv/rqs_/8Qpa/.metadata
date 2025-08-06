@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Mais detalhes sobre Pro…",
+  "Type": "Element",
+  "Id": "8QpaWpM5qUyedVeOQqT0AA",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/8QpaWpM5qUyedVeOQqT0AA",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-08-05T18:29:54.6535799Z",
+  "Updated": "2025-08-05T18:29:54.6535799Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

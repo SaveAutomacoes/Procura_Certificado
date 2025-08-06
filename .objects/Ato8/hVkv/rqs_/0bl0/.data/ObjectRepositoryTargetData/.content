@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BkhVmNhKWEaMQ-XWbq-Gyg" Reference="DRaOZbhlWkaD6Iu4Nuk-ug/0bl02BD0N0qwCoQ6nUrZGw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="7e9b6019-0268-459b-be37-bbad6c3b4ab7" CvTextArea="1186, 546, 53, 12" CvTextArgument="Detalhar" CvType="Text" DesignTimeRectangle="1170, 545, 70, 15" ElementType="Text" FullSelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' /&gt;&lt;webctrl idx='2' tag='TABLE' /&gt;&lt;webctrl id='icontblSistema0' tableRow='2' tag='LABEL' /&gt;" Guid="2da52025-ebc4-4c0e-9484-9ccb94e268b3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="7e9b6019-0268-459b-be37-bbad6c3b4ab7" CvTextArea="1081, 500, 246, 16" CvTextArgument="Opções de Atendimento Delegadas" CvType="Text" DesignTimeRectangle="1083, 498, 244, 16" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl tag='TABLE' /&gt;&lt;webctrl type='' class='' tag='B' aaname='Opções de Atendimento Delegadas' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Opções de Atendimento Delegadas' /&gt;" Guid="0b5bc8bc-1be2-4d7c-9dc7-16a475b56ce7" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8c4af44a314fde82948fcfcb6785940f.png" xmlns="">07jT4wh2lLUOkJUHHkpwPSQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

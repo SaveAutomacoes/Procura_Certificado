@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Vigência",
+  "Type": "Element",
+  "Id": "mBSFZd1WnUurM4jfbytZnA",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/mBSFZd1WnUurM4jfbytZnA",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-08-05T20:22:49.134415Z",
+  "Updated": "2025-08-05T20:22:49.134415Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

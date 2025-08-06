@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Consultar Procuração - …",
+  "Type": "Element",
+  "TaxonomyType": "Container",
+  "Id": "WheBHoNxWEWVAHSv6l_qeg",
+  "Reference": "DRaOZbhlWkaD6Iu4Nuk-ug/WheBHoNxWEWVAHSv6l_qeg",
+  "ParentRef": "DRaOZbhlWkaD6Iu4Nuk-ug/rqs_aYf4VkakS8L4Vys-yw",
+  "Created": "2025-08-06T14:32:34.3832339Z",
+  "Updated": "2025-08-06T14:32:34.3832339Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

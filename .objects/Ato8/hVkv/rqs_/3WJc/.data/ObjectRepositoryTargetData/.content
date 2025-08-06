@@ -1,8 +1,15 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="-PgoYZqXnEeRiw243BIeKw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="1-V_sNUs7ki1ItCKMkZNOg" Reference="DRaOZbhlWkaD6Iu4Nuk-ug/3WJcXu2wqE67P5F0r-dZKQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="c70e9c84-3cd1-417b-92b9-57039313187f" CvTextArea="17, 331, 279, 22" CvTextArgument="The requested URL was rejected." CvType="Text" DesignTimeRectangle="18, 332, 279, 22" ElementType="Text" Guid="9a1816c2-deff-466f-b26c-ddce95574712" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="0747e736034bc7565ff53d3b61f54cbd.png" xmlns="">0de0NYw7sT0yKspnUCnYUYw</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="cav.receita.fazenda.gov.br/ecac/Aplicacao.aspx" CVScreenId="c70e9c84-3cd1-417b-92b9-57039313187f" CvTextArea="17, 331, 279, 22" CvTextArgument="The requested URL was rejected." CvType="Text" DesignTimeRectangle="18, 386, 267, 21" ElementType="Text" Guid="9a1816c2-deff-466f-b26c-ddce95574712" ScopeSelectorArgument="&lt;html app='chrome.exe' title='eCAC - Centro Virtual de Atendimento' /&gt;" SearchSteps="CV" TargetType="ComputerVisionBased" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9e1a351f-c3cd-4463-b320-a5d118694cd8" CvTextArea="287, 385, 314, 22" CvTextArgument="Please consult with your administrator." CvType="Text" DesignTimeRectangle="289, 386, 313, 21" ElementType="Text" Guid="74447c20-d5df-454e-92be-72883f940437" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="9e1a351f-c3cd-4463-b320-a5d118694cd8" CvTextArea="17, 431, 155, 20" CvTextArgument="Your support ID is:" CvType="Text" DesignTimeRectangle="17, 432, 173, 20" ElementType="Text" Guid="73825379-ef53-49dd-a445-8e9a607c14b3" SearchSteps="CV" TargetType="ComputerVisionBased" />
+          <Target CVScreenId="9e1a351f-c3cd-4463-b320-a5d118694cd8" CvTextArea="19, 477, 82, 18" CvTextArgument="%[Go Back]" CvType="Text" DesignTimeRectangle="19, 475, 84, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='frmApp' tag='IFRAME' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl tag='A' type='' class='' aaname='[Go Back]' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='[Go Back]' /&gt;" Guid="005cdf2a-8af9-434b-9b36-98ceb37562a2" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fc12ec3fb08173191c698c863c95555c.png" xmlns="">0TP2pkBAvhkG9jhJk3W5dqg</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">CheckState</x:String>
   </ObjectRepositoryTargetData.Data>
